@@ -12,7 +12,7 @@
         "predeploy": "npm run build",
         "deploy": "gh-pages -d dist"
     },
-    "homepage": "https://itzik034.github.io/fullstack_course_crypto",
+    "homepage": "https://itzik034.github.io/Cryptocurrency/",
     "dependencies": {
         "@canvasjs/react-charts": "^1.0.2",
         "@emotion/react": "^11.14.0",
